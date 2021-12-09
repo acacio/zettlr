@@ -1,6 +1,11 @@
-# Neuron Template
+### STM32
+#stm32 #platformio
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+[Getting started with STM32 & PlatformIO](https://stm32-base.org/guides/platformio.html) #todo
+
+[Introduction to the STM32 Blue Pill (STM32duino)](https://predictabledesigns.com/introduction-stm32-blue-pill-stm32duino/)
+#blue-pill #stm32duino 
+
 
 Get started by reading [[README]]#.
 
